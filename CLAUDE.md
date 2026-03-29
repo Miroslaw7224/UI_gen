@@ -72,3 +72,15 @@ JWT stored in an `auth-token` httpOnly cookie (7-day expiry). Middleware (`src/m
 ### Windows note
 
 Scripts use `cross-env` to set `NODE_OPTIONS` (required for `node-compat.cjs`). Do not remove `cross-env` from scripts in `package.json`.
+
+## Collaboration & asking for help
+
+When something isn't working and a second attempt won't clearly fix it — stop and ask the user. Don't loop through workarounds or force a solution alone. The user can often unblock things in seconds.
+
+Ask for help when:
+- An action requires something outside your control (restarting a process, refreshing a browser tab, unlocking a file)
+- A build or tooling error persists after one fix attempt
+- The environment behaves unexpectedly (wrong port, stale cache, missing env var)
+- Requirements or context are ambiguous and guessing will waste effort
+
+Just describe the situation briefly and say what you need: *"X is happening, could you do Y?"* — then wait. Don't silently retry the same failing action.

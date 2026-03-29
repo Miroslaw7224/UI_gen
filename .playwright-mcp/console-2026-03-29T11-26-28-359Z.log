@@ -1,0 +1,107 @@
+[  445057ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  445151ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[  449313ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  449317ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[  452490ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  452494ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[  515584ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  515622ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[  517768ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  517772ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[  700036ms] [ERROR] ./src/lib/prompts/generation.tsx:26:107
+Parsing ecmascript source code failed
+  24 | 
+  25 | **Decorative elements**
+> 26 | * Add one deliberate decorative detail that elevates the design: a large typographic ornament (oversized `"` quote mark, a `#`, a `→`), a thin colored top border on a card, a subtle dot or line pattern in the background, or a colored left-border accent strip
+     |                                                                                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  27 | * These should be tasteful, not loud — think of them as a designer's signature touch
+  28 |
+  29 | **Typography hierarchy**
+
+Unterminated string constant
+
+Import trace:
+  App Route:
+    ./src/lib/prompts/generation.tsx
+    ./src/app/api/chat/route.ts @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[  700800ms] [ERROR] ./src/lib/prompts/generation.tsx:26:107
+Parsing ecmascript source code failed
+  24 | 
+  25 | **Decorative elements**
+> 26 | * Add one deliberate decorative detail that elevates the design: a large typographic ornament (oversized `"` quote mark, a `#`, a `→`), a thin colored top border on a card, a subtle dot or line pattern in the background, or a colored left-border accent strip
+     |                                                                                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  27 | * These should be tasteful, not loud — think of them as a designer's signature touch
+  28 |
+  29 | **Typography hierarchy**
+
+Unterminated string constant
+
+Import trace:
+  App Route:
+    ./src/lib/prompts/generation.tsx
+    ./src/app/api/chat/route.ts @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[  700970ms] [ERROR] ./src/lib/prompts/generation.tsx:26:107
+Parsing ecmascript source code failed
+  24 | 
+  25 | **Decorative elements**
+> 26 | * Add one deliberate decorative detail that elevates the design: a large typographic ornament (oversized `"` quote mark, a `#`, a `→`), a thin colored top border on a card, a subtle dot or line pattern in the background, or a colored left-border accent strip
+     |                                                                                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  27 | * These should be tasteful, not loud — think of them as a designer's signature touch
+  28 |
+  29 | **Typography hierarchy**
+
+Unterminated string constant
+
+Import trace:
+  App Route:
+    ./src/lib/prompts/generation.tsx
+    ./src/app/api/chat/route.ts @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[  703633ms] [ERROR] ./src/lib/prompts/generation.tsx:26:107
+Parsing ecmascript source code failed
+  24 | 
+  25 | **Decorative elements**
+> 26 | * Add one deliberate decorative detail that elevates the design: a large typographic ornament (oversized `"` quote mark, a `#`, a `→`), a thin colored top border on a card, a subtle dot or line pattern in the background, or a colored left-border accent strip
+     |                                                                                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  27 | * These should be tasteful, not loud — think of them as a designer's signature touch
+  28 |
+  29 | **Typography hierarchy**
+
+Unterminated string constant
+
+Import trace:
+  App Route:
+    ./src/lib/prompts/generation.tsx
+    ./src/app/api/chat/route.ts @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[  703633ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3001/api/chat:0
+[  722086ms] [ERROR] ./src/lib/prompts/generation.tsx:26:107
+Parsing ecmascript source code failed
+  24 | 
+  25 | **Decorative elements**
+> 26 | * Add one deliberate decorative detail that elevates the design: a large typographic ornament (oversized `"` quote mark, a `#`, a `→`), a thin colored top border on a card, a subtle dot or line pattern in the background, or a colored left-border accent strip
+     |                                                                                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  27 | * These should be tasteful, not loud — think of them as a designer's signature touch
+  28 |
+  29 | **Typography hierarchy**
+
+Unterminated string constant
+
+Import trace:
+  App Route:
+    ./src/lib/prompts/generation.tsx
+    ./src/app/api/chat/route.ts @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[  769720ms] [ERROR] ./src/lib/prompts/generation.tsx:26:107
+Parsing ecmascript source code failed
+  24 | 
+  25 | **Decorative elements**
+> 26 | * Add one deliberate decorative detail that elevates the design: a large typographic ornament (oversized `"` quote mark, a `#`, a `→`), a thin colored top border on a card, a subtle dot or line pattern in the background, or a colored left-border accent strip
+     |                                                                                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  27 | * These should be tasteful, not loud — think of them as a designer's signature touch
+  28 |
+  29 | **Typography hierarchy**
+
+Unterminated string constant
+
+Import trace:
+  App Route:
+    ./src/lib/prompts/generation.tsx
+    ./src/app/api/chat/route.ts @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359

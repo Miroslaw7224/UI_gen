@@ -1,0 +1,48 @@
+[     366ms] [ERROR] ./src/lib/prompts/generation.tsx:26:107
+Parsing ecmascript source code failed
+  24 | 
+  25 | **Decorative elements**
+> 26 | * Add one deliberate decorative detail that elevates the design: a large typographic ornament (oversized `"` quote mark, a `#`, a `→`), a thin colored top border on a card, a subtle dot or line pattern in the background, or a colored left-border accent strip
+     |                                                                                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  27 | * These should be tasteful, not loud — think of them as a designer's signature touch
+  28 |
+  29 | **Typography hierarchy**
+
+Unterminated string constant
+
+Import trace:
+  App Route:
+    ./src/lib/prompts/generation.tsx
+    ./src/app/api/chat/route.ts @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[     409ms] [ERROR] ./src/lib/prompts/generation.tsx:26:107
+Parsing ecmascript source code failed
+  24 | 
+  25 | **Decorative elements**
+> 26 | * Add one deliberate decorative detail that elevates the design: a large typographic ornament (oversized `"` quote mark, a `#`, a `→`), a thin colored top border on a card, a subtle dot or line pattern in the background, or a colored left-border accent strip
+     |                                                                                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  27 | * These should be tasteful, not loud — think of them as a designer's signature touch
+  28 |
+  29 | **Typography hierarchy**
+
+Unterminated string constant
+
+Import trace:
+  App Route:
+    ./src/lib/prompts/generation.tsx
+    ./src/app/api/chat/route.ts @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[     472ms] [ERROR] ./src/lib/prompts/generation.tsx:26:107
+Parsing ecmascript source code failed
+  24 | 
+  25 | **Decorative elements**
+> 26 | * Add one deliberate decorative detail that elevates the design: a large typographic ornament (oversized `"` quote mark, a `#`, a `→`), a thin colored top border on a card, a subtle dot or line pattern in the background, or a colored left-border accent strip
+     |                                                                                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  27 | * These should be tasteful, not loud — think of them as a designer's signature touch
+  28 |
+  29 | **Typography hierarchy**
+
+Unterminated string constant
+
+Import trace:
+  App Route:
+    ./src/lib/prompts/generation.tsx
+    ./src/app/api/chat/route.ts @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
